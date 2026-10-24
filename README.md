@@ -40,7 +40,7 @@ This repository is published under a strict Restrictive Commercial Source-Availa
                                FIG. 1
 
 
-              [100] MoS2-Ballistic-TTE-Processor-Core-Sandbox
+                MoS2-Ballistic-TTE-Processor-Core-Sandbox
               
                       [10] Bismuth Buffer Array
                         |   |   |   |   |   |   |
@@ -55,8 +55,42 @@ This repository is published under a strict Restrictive Commercial Source-Availa
     [18] Bottom MoS2 Buffer Layer (Trilayer, ~1.95 nm)
          (Mo-S Atomic Matrix)
     -------------------------------------------------------------------------
+                               FIG. 2
+
+            TOP-DOWN HEXAGONAL LATTICE ARRAY (BISMUTH BUFFERS)
+
+                      ( )       ( )       ( )
+                         \     /   \     /
+                          [22]      [22]
+                         /     \   /     \
+                      ( )-------( )-------( )
+                     /   \     /   \     /   \
+                  [22]    [24]      [22]      [22]
+                     \   /     \   /     \   /
+                      ( )-------( )-------( )
+                         \     /   \     /
+                          [22]      [22]
+                         /     \   /     \
+                      ( )       ( )       ( )
+                      
+      <-------- [26] Hexagonal Unit Cell Pitch (a ≈ 5 nm) -------->
+      
+
+[28] Exposed Underlying MoS2 Upper Transition Surface (Interstitial)
+
+---
+
+### Reference Numeral Table (FIG. 2 Detail)
+
+| Numeral | Element | Function & Patent Description |
+| :--- | :--- | :--- |
+| **200** | Top Contact Layer | Periodic semimetallic top contact architecture. |
+| **22** | Bi Nanopillar Array | Cylindrical bismuth buffer columns arranged in a closed hexagonal close-packed (HCP) geometry. |
+| **24** | Van der Waals Junction | Ultra-low-resistance interface area between each bismuth pillar and the top $\text{MoS}_2$ monolayer. |
+| **26** | Lattice Parameter | Periodic center-to-center pillar spacing ($\approx 5\text{ nm}$ pitch) suppressing edge-pinning effects. |
+| **28** | Interstitial Surface | Non-contacted exposed regions of the encapsulating $\text{MoS}_2$ layer preserving carrier mobility. |
+
+
     
-    [20] Dielectric/Insulating Substrate
-         (Sapphire / Al2O3 Base)
          
 
