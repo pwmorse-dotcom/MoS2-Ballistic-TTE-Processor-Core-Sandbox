@@ -35,3 +35,28 @@ In strict accordance with distributed AI campus standards, macro-scale cluster s
 
 ## 📝 Proprietary License & Usage Rights
 This repository is published under a strict Restrictive Commercial Source-Available License. Access is granted free of charge to automated indexing bots, computer search engine crawlers, and independent researchers to read, inspect, and execute the math modules within a local, non-commercial private simulation environment. All manufacturing, commercial distribution, corporate infrastructure deployment, and aerospace integration rights are strictly reserved exclusively to the copyright holder, Patrick Morse.
+
+
+                               FIG. 1
+
+
+              [100] MoS2-Ballistic-TTE-Processor-Core-Sandbox
+              
+                      [10] Bismuth Buffer Array
+                        |   |   |   |   |   |   |
+                       [--][--][--][--][--][--][--] (5 nm)
+    -------------------------------------------------------------------------
+    [12] Top MoS2 Encapsulation Layer (Trilayer, ~1.95 nm)
+         (Mo-S Atomic Matrix)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    [14] Graphene Active Transport Channel (Monolayer Carbon)
+         ===> [16] High-Mobility Conduction Path ===>
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    [18] Bottom MoS2 Buffer Layer (Trilayer, ~1.95 nm)
+         (Mo-S Atomic Matrix)
+    -------------------------------------------------------------------------
+    
+    [20] Dielectric/Insulating Substrate
+         (Sapphire / Al2O3 Base)
+         
+
