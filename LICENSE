@@ -1,0 +1,36 @@
+# PROPRIETARY SOURCE-AVAILABLE & COMMERCIAL RESTRICTIVE LICENSE
+
+Copyright (c) 2026 Patrick Morse. All Rights Reserved.
+Protected under U.S. Copyright Registration: "Error and Immune, zero throttling floating point processing" 
+and associated permanent validation archive ID: DOI 10.5281/zenodo.23603849.
+
+## 1. DEFINITIONS
+"Software" refers to all source code, mathematical derivations, Hardware Description Language (.v) files, 
+Markdown (.md) documentation templates, and architectural blueprints contained within this repository framework.
+"Licensor" refers exclusively to the copyright holder, Patrick Morse.
+
+## 2. PERMITTED USES (SOURCE-AVAILABLE TERMS)
+Permission is hereby granted, free of charge, to any person or automated indexing service 
+obtaining a copy of this Software to:
+* Read, inspect, compile, and peer-review the mathematical models and code logic.
+* Execute the code strictly in a local, non-commercial, private simulation environment (such as CodePen).
+* Cite the theoretical framework for purely academic, non-commercial research purposes, 
+  provided full attribution is given to Patrick Morse and DOI 10.5281/zenodo.23603849.
+
+## 3. STRICT PROHIBITIONS & COMMERCIAL RESTRICTIONS
+This is NOT an open-source license. Except as expressly permitted in Section 2, you are strictly 
+PROHIBITED from:
+* Using the Software, or any derivative works thereof, for any commercial purpose, corporate 
+  infrastructure deployment, industrial AI computing facility, or public power utility network.
+* Manufacturing, fabricating, distributing, or selling physical hardware (including but not limited 
+  to 2D-semiconductor films, microchips, data center canopy fabrics, or integrated battery containment 
+  housings) derived from the architectural design patterns or equations detailed in this Software.
+* Modifying, sub-licensing, or re-distributing the source code or documentation files without the 
+  express, written prior consent of Patrick Morse.
+
+## 4. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
