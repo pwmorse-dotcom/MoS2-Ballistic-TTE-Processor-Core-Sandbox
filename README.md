@@ -109,6 +109,19 @@ To ensure full compliance with the physical limits of materials physics and quan
 3. **Hexagonal Boron Nitride (h-BN) Interconnect Passivation:** To mitigate the Gibbs-Thomson melting point depression native to highly confined structures ($5\text{ nm}$ vertical pillar profiles), the semimetallic Bismuth buffer nanopillar contacts are completely capped with a conformal 1–2 layer hexagonal Boron Nitride ($\text{h-BN}$) passivation sheet. This wide-bandgap insulation layer mechanically locks the crystal arrays, prevents atmospheric oxidation, and completely suppresses electromigration under continuous peak execution loads.
 
 
+## 🤝 Academic Collaboration & Wafer Testing Call-to-Action
+
+The mathematical models, universal sub-equations, and hardware description language files contained within this repository are fully optimized and ready for experimental hardware verification. 
+
+**Looking for academic cleanroom collaborators and foundry partners for physical wafer testing, monolayer film deposition validation, and ballistic transport characterization.**
+
+If your laboratory facility or research group is equipped for nanoscale 2D-semiconductor prototyping (specifically $\text{MoS}_2$ synthesis, bismuth contact evaporation, or h-BN passivation encapsulation) and you are interested in collaborating on this post-silicon physical architecture, please reach out directly via the secure communications channel below to initiate a formal review under a Non-Disclosure Agreement (NDA).
+
+* **Primary Engineering Contact:** spectro1 (at) charter ( dot ) net
+* **Lead Researcher:** Patrick Morse
+* **Core Reference Handle:** DOI 10.5281/zenodo.23603849
+
+
 
 
     
